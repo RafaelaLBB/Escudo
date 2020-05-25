@@ -1,2 +1,2 @@
-# Escudo
-Projeto para o COVID-19 com visão computacional
+# Python
+Exemplos de aplicações em python
