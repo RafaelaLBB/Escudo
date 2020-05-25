@@ -1,2 +1,2 @@
-# Projeto1
-Esse projeto é referente ao aprendizado da cadeira de processamento de imagens
+# Escudo
+Projeto para o COVID-19 com visão computacional
